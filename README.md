@@ -1,2 +1,2 @@
 # delta-demo..
-this is made for understanding Github
+this is made for understanding Github.
